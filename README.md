@@ -83,35 +83,35 @@ The Tableau dashboard includes the following key visualizations:
 ### 1️⃣ Churn by Contract Type
 📌 Shows how subscription type impacts churn  
 
-![Churn Rate by Contract](images/Churn Rate By Charge Group.png)
+![Churn Rate by Contract](images/Churn%20Rate%20By%20Contract.png)
 
 ---
 
 ### 2️⃣ Churn by Customer Tenure
 📌 Identifies when customers are most likely to leave  
 
-![Churn Rate by Tenure](Churn Rate By Tenure.png)
+![Churn Rate by Tenure](images/Churn%20Rate%20By%20Tenure.png)
 
 ---
 
 ### 3️⃣ Churn by Monthly Charges
 📌 Analyzes the impact of pricing on churn  
 
-![Churn Rate by Charges Group](images/churn_charges.png)
+![Churn Rate by Charges Group](images/Churn%20Rate%20By%20Charge%Group.png)
 
 ---
 
 ### 4️⃣ Churn by Payment Method
 📌 Highlights friction points in billing experience  
 
-![Churn by Payment](images/churn_payment.png)
+![Churn by Payment](images/Churn%20Rate%20By%20Payment%Method.png)
 
 ---
 
 ### 5️⃣ Customer Churn Trend (Cohort Analysis)
 📌 Shows churn behavior across customer lifecycle  
 
-![Cohort Trend](images/cohort_trend.png)
+![Cohort Trend](images/Churn%20Rate%20By%20Cohort.png)
 
 ---
 
