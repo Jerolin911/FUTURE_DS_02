@@ -111,7 +111,7 @@ The Tableau dashboard includes the following key visualizations:
 ### 5️⃣ Customer Churn Trend (Cohort Analysis)
 📌 Shows churn behavior across customer lifecycle  
 
-![Cohort Trend](images/Churn%20Rate%20By%20Cohort.png)
+![Cohort Trend](images/Cohort%20Trend.png)
 
 ---
 
