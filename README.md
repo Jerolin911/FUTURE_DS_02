@@ -97,14 +97,14 @@ The Tableau dashboard includes the following key visualizations:
 ### 3️⃣ Churn by Monthly Charges
 📌 Analyzes the impact of pricing on churn  
 
-![Churn Rate by Charges Group](images/Churn%20Rate%20By%20Charge%Group.png)
+![Churn Rate by Charges Group](images/Churn%20Rate%20By%20Charge%20Group.png)
 
 ---
 
 ### 4️⃣ Churn by Payment Method
 📌 Highlights friction points in billing experience  
 
-![Churn by Payment](images/Churn%20Rate%20By%20Payment%Method.png)
+![Churn by Payment](images/Churn%20Rate%20By%20Payment%20Method.png)
 
 ---
 
